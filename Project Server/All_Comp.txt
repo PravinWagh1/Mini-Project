@@ -1,0 +1,15 @@
+REQUIRE:
+Mysql2
+bodyParser
+Cors
+express
+
+CLIENT:
+BOOTSTRAP
+JSON
+REACT
+REACT-Router-DOM
+
+
+SERVER:
+Express--Middleware
